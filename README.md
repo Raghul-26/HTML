@@ -45,10 +45,14 @@ HTML/
 2. Open the project folder in Visual Studio Code.
 3. Open `index.html` in a browser.
 
-## Learning Goal
+# Learning Progress
 
-My goal is to understand HTML fundamentals and build a strong foundation for frontend and full-stack development.
-
----
+I am currently learning HTML fundamentals and practicing different HTML elements by building simple web pages.
 
 This repository will be updated as I learn and practice more HTML concepts.
+
+Author
+
+Raghul K
+
+GitHub: [Raghul-26](https://github.com/Raghul-26)
