@@ -1,89 +1,54 @@
-# 🌐 HTML Learning Journey
+# HTML Learning
 
-This repository contains my **HTML learning journey**, starting from the basics and progressing toward building structured web pages.
+This repository contains my HTML learning notes and practice programs as part of my Python Full Stack learning journey.
 
-I am currently beginning my journey with **HTML (HyperText Markup Language)** as the first step in learning web development.
+## About
 
-## 🎯 Goal
+I am learning HTML from the basics and practicing by creating simple web pages. This repository is dedicated to **HTML only**.
 
-The goal of this repository is to:
+## Topics Practiced
 
-* Learn HTML from the fundamentals.
-* Understand how web pages are structured.
-* Practice HTML concepts through hands-on coding.
-* Build small web pages and projects as I progress.
-* Maintain a record of my learning and improvement.
+- HTML document structure and boilerplate
+- Headings and paragraphs
+- Text formatting tags (`strong`, `b`, `em`, `i`, `del`, `small`, etc.)
+- Line breaks and horizontal rules
+- Preformatted text
+- Images, audio, and video
+- Embedded content using an iframe
+- Unordered, ordered, description, and nested lists
+- Tables and `colspan`
+- HTML forms, inputs, radio buttons, and checkboxes
 
-## 📚 Topics
-
-I will gradually cover topics such as:
-
-* HTML Document Structure
-* Headings and Paragraphs
-* Text Formatting
-* Links
-* Images
-* Lists
-* Tables
-* Forms
-* Input Elements
-* Buttons
-* Semantic HTML
-* Audio and Video
-* HTML Attributes
-* And more...
-
-## 📂 Repository Structure
-
-The repository will be organized as I learn:
+## Project Structure
 
 ```text
 HTML/
-│
-├── README.md
-│
-├── Basics/
-│
-├── Links-and-Images/
-│
-├── Lists/
-│
-├── Tables/
-│
-├── Forms/
-│
-└── Projects/
+├── index.html
+├── utils/
+│   ├── images/
+│   ├── audio/
+│   └── video/
+└── README.md
 ```
 
-The structure will be updated as I continue learning.
+*The `utils` folders are for local media files used by the HTML pages. Keep only the folders and files that exist in your project.*
 
-## 🛠️ Tools
+## Tools Used
 
-* Visual Studio Code
-* Web Browser
-* Git
-* GitHub
+- HTML
+- Visual Studio Code
+- Git and GitHub
 
-## 📈 Progress
+## How to View
 
-**Current Stage:** 🌱 Just Starting
+1. Clone or download this repository.
+2. Open the project folder in Visual Studio Code.
+3. Open `index.html` in a browser.
 
-I haven't started writing the HTML code yet. This repository will be updated regularly as I learn and practice new concepts.
+## Learning Goal
 
-## 🚀 Learning Approach
-
-I plan to follow a simple approach:
-
-**Learn → Practice → Build → Improve**
-
-Each topic I learn will be practiced through code and gradually combined into small projects.
-
-## 📌 About This Repository
-
-This is a **learning repository**, created to document my progress while learning HTML.
-
-The code and structure will evolve over time as I gain more knowledge and improve my understanding of web development.
+My goal is to understand HTML fundamentals and build a strong foundation for frontend and full-stack development.
 
 ---
 
-### 🌱 Starting from the basics, one step at a time.
+This repository will be updated as I learn and practice more HTML concepts.
